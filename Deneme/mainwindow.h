@@ -3,7 +3,7 @@
 
 #include <QMainWindow>
 
-namespace Ui {
+dfsdfs fd Ui {
 class MainWindow;
 }
 
